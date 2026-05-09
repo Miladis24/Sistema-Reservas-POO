@@ -1,4 +1,4 @@
-from servicio import Servicio
+from Servicio import Servicio
 
 class ReservaSala(Servicio):
     def __init__(self, nombre, precio_base, horas):
