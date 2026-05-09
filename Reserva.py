@@ -1,4 +1,4 @@
-from errores import ErrorReserva
+from Errores import ErrorReserva
 from logger import registrar_error, registrar_evento
 
 class Reserva:
