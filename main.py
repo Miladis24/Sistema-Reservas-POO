@@ -1,6 +1,6 @@
-from cliente import Cliente
-from servicios_especificos import ReservaSala, AlquilerEquipo, AsesoriaEspecializada
-from reserva import Reserva
+from Cliente import Cliente
+from Servicios_Especificos import ReservaSala, AlquilerEquipo, AsesoriaEspecializada
+from Reserva import Reserva
 
 print("===== SISTEMA DE GESTIÓN =====")
 
